@@ -1,0 +1,16 @@
+{
+  "name": "sistema-de-venta-v1-main",
+  "version": "1.0.0",
+  "description": "![php](https://user-images.githubusercontent.com/71534078/127014295-557379ba-5a8b-4b71-a391-542d72a8e78d.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.24.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-eslint-config": "latest"
+  }
+}
