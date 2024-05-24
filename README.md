@@ -1,6 +1,6 @@
 ### Telegram-New-Automated-Tool-40-Features-2024-Scraper-Adder-Reporter-Forwarder
 
-FullTG is a tool for Telegram. Simple to install and easy to use. Updates, new features and support for lifetime!
+FullTG is an all in one fully automated tool for Telegram. It is written in Python and very noob-friendly. No coding skills required! Simple to install and easy to use. Updates, new features and support for lifetime!
 
 ## BUY HERE: https://tinyurl.com/jxsvjcfz
 
