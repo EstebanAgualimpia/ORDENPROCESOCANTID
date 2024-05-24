@@ -38,3 +38,21 @@ This tool has a total of 40 features and tons of dynamic sub-features! New ones 
 ![](https://github.com/EstebanAgualimpia/Telegram-New-Automated-Tool-40-Features-2024-Scraper-Adder-Reporter-Forwarder/blob/main/copy_channel.gif)
 - Automatically send an AFK-message to anyone who messages you!
 - Automatically join to any channels/groups!
+![](https://github.com/EstebanAgualimpia/Telegram-New-Automated-Tool-40-Features-2024-Scraper-Adder-Reporter-Forwarder/blob/main/Joiner.gif)
+- Automatically leave any channels/groups!
+- Automatically increase the views of your posts without any accounts!
+![](https://github.com/EstebanAgualimpia/Telegram-New-Automated-Tool-40-Features-2024-Scraper-Adder-Reporter-Forwarder/blob/main/views.gif)
+- Automatically increase the views of your posts with accounts!
+- Automatically react to any posts of your targets with emojis!
+- Automatically create API ID and HASH!
+- Ban-Checker, check if your accounts are valid!
+- Spam-Checker, check if your accounts are ready to be used!
+- Report any members, groups or channels you want, with comments of your choice!
+- MORE COMING SOON!
+>All tasks above can be done by selected accounts or all accounts!
+
+## BUY HERE: https://tinyurl.com/jxsvjcfz
+
+VIDEO: https://youtu.be/DpBAr3v3FjA
+
+For any questions, feel free to ask us on Telegram: https://t.me/FullTGToolsSupport
