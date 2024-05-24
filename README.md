@@ -1,6 +1,7 @@
 ### Telegram-New-Automated-Tool-40-Features-2024-Scraper-Adder-Reporter-Forwarder
 
 FullTG is an all in one fully automated tool for Telegram. It is written in Python and very noob-friendly. No coding skills required! Simple to install and easy to use. Updates, new features and support for lifetime!
+### 40 MAIN FUNCTIONS!
 
 ## BUY HERE: https://tinyurl.com/jxsvjcfz
 
@@ -48,6 +49,7 @@ This tool has a total of 40 features and tons of dynamic sub-features! New ones 
 - Ban-Checker, check if your accounts are valid!
 - Spam-Checker, check if your accounts are ready to be used!
 - Report any members, groups or channels you want, with comments of your choice!
+- And many other functions more! All functions can be seen on the menu picture above!
 - MORE COMING SOON!
 >All tasks above can be done by selected accounts or all accounts!
 
